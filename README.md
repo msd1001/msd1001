@@ -1,4 +1,4 @@
-Hi, I'm Madhuresh Singh a Front-end Web Developer at TCS working for ING CLIENT.
+Hi, I'm Madhuresh Singh a Front-end Web Developer at TCS.
 
 🎓 I have completed my Electrical engineering from PSIT, KANPUR
 
